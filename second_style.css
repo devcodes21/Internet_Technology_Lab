@@ -1,0 +1,26 @@
+table {
+  /* background-color: aqua; */
+  /* border-width: 10px; */
+  border: 1px solid;
+}
+td {
+  border: 1px solid;
+}
+#heading {
+  background-color: orange;
+}
+#contentone {
+  background-color: white;
+}
+#contenttwo {
+  background-color: green;
+}
+#btn {
+  color: white;
+  background-color: black;
+}
+#first_image {
+  border: 8px solid;
+  box-shadow: inset;
+  text-shadow: 10px;
+}
