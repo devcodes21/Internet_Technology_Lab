@@ -1,0 +1,12 @@
+table,tr,td{
+    background-color: aqua;
+    border-width: 20px;
+    size: 20px;
+    border:2px outset;
+}
+table,tr,td{
+    width:25%;
+}
+body{
+    background-color:lavender;
+}
